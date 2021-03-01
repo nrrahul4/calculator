@@ -1,0 +1,16 @@
+.btn_wrapper {
+  border: 1px solid;
+  width: 27px;
+  height: 27px;
+  border-radius: 6px;
+  color: white;
+  background-color: rgb(51, 47, 32);
+  text-align: center;
+  margin: 10px;
+  cursor: pointer;
+}
+
+.btn_wrapper:active {
+  background-color: rgba(85, 84, 80, 0.945);
+  box-shadow: darkgray;
+}
